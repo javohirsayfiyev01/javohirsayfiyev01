@@ -1,4 +1,4 @@
-### Hi there 👋
+# Javohir Sayfiyev
 
 <!--
 **javohirsayfiyev01/javohirsayfiyev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
